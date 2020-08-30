@@ -96,7 +96,7 @@
             </t>
         </t>
     </t>
-    
+
     <t t-extend="SearchView.FavoriteMenu">
 		<t t-jquery="button[data-toggle='dropdown']" t-operation="inner">
 	        <span class="fa fa-star"/> 
